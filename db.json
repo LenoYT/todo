@@ -1,0 +1,16 @@
+{
+    "TODO": {
+        "do": {
+            "Prog": {
+                "name": "Programmer",
+                "description": "Make TODO"
+            }
+        },
+        "undo": {
+            "Smieci": {
+                "name": "Smieci",
+                "description": "Wynies Smieci"
+            }
+        }
+    }
+}
